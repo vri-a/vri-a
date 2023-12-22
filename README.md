@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valeria</h1>
 <h3 align="center">A future full-stack developer from Uruguay</h3>
 
-- 🔭 I’m a passionate self-taught full-stack developer
-- 🌱 I’m currently learning **Node.js and Express**
-- 🤝 I’m open to a job opportunity
-- 📫 Feel free to reach me out **1ijvaleriaperez@gmail.com**
+- 🔭 I’m a passionate self-taught full-stack developer.
+- 🌱 I’m currently learning **Node.js and Express**.
+- 🤝 I’m open to a job opportunity.
+- 📫 Feel free to reach me out **1ijvaleriaperez@gmail.com**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
